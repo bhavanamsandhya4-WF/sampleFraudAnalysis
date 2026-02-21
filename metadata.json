@@ -1,0 +1,5 @@
+{
+  "name": "FinLink AI",
+  "description": "AI-powered financial link analysis tool for detecting relationships between phone numbers and bank accounts.",
+  "requestFramePermissions": []
+}
